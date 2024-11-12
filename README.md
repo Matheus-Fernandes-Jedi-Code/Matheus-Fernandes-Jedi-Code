@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Matheus-Fernandes-Jedi-Code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Matheus-Fernandes-Jedi-Code/Matheus-Fernandes-Jedi-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="GameMaker" height="30" width="40" src="file:///C:/Users/pc/Downloads/communityIcon_itciy1qmjp871.webp">
+  <img align="center" alt="Construct 2" height="30" width="40" src="file:///C:/Users/pc/Downloads/download.png">
+  <img align="center" alt="Godot" height="30" width="40" src="file:///C:/Users/pc/Downloads/download%20(1).png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/@Jedi_Code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eu_sou_jedi_code/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
