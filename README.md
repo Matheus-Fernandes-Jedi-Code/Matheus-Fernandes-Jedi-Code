@@ -1,10 +1,14 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="GameMaker" height="30" width="40" src="[file:///C:/Users/pc/Downloads/communityIcon_itciy1qmjp871.webp](https://i.pinimg.com/736x/e6/4d/4b/e64d4b542b101a5eb98fad08dd46a278.jpg)">
-  <img align="center" alt="Construct 2" height="30" width="40" src="file:///C:/Users/pc/Downloads/download.png">
-  <img align="center" alt="Godot" height="30" width="40"  src=="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
+👋 Hi! I'm Matheus Fernandes, a Computer Science student at UFCG
+
+👽 Focus on software and game development.
+
+🗽 Advanced intermediate English
+
+🎯 I'm here to collaborate on open-source projects and learn from other developers.
+
+📹 I also have a YouTube channel where I share content about programming and my routine as a Computer Science student.
+
+🤝 Let's build something amazing together!
   ##
  
 <div> 
