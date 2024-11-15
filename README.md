@@ -18,8 +18,6 @@
   
 </div>
 
-
-
 name: generate animation
 
 on:
@@ -45,11 +43,11 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # generates a snake game from a github user (<Matheus-Fernandes-Jedi-Code>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          Matheus-Fernandes-Jedi-Code: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
